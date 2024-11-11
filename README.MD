@@ -71,7 +71,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src=".profile/FB_IMG_1680575117203.jpg"
+      src="./profile/FB_IMG_1680575117203.jpg"
     />
     <p>&nbsp&nbsp&nbspAlan Sumiya<br>
     &nbsp&nbsp&nbsp
