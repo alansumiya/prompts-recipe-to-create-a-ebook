@@ -64,14 +64,14 @@ Copilot：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
+## 👨‍💻 Beginner
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://drive.google.com/file/d/1MXtONzpGaowFhlec3BTtGAV8mA8W7bmF/view?usp=drive_link"
     />
     <p>&nbsp&nbsp&nbspAlan Sumiya<br>
     &nbsp&nbsp&nbsp
